@@ -49,7 +49,7 @@ function myGroupView() {
             appendNewOption(1, "Jianna and Austin")
 
             var img = document.createElement("img");
-            img.src = "images/jiana austin.jpg";
+            img.src = "images/jianna austin.jpg";
             document.body.appendChild(img);
     }
 
